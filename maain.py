@@ -1,3 +1,5 @@
+'''developer Shlapakova 90%, Zikova 65%, Bateneva 75%'''
+
 from tkinter import *
 import random
 
